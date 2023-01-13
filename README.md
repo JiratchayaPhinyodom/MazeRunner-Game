@@ -25,7 +25,7 @@ This module contains the `PlayerAccount` class for creating each user account.
                 which is required to a string."""
 
 ## 2.Module `database.py`
-This module contains `AccountDB` class for creating a database file.
+This module contains `AccountDB` class for creating a database format file.
 
         import json
 
